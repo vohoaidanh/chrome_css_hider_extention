@@ -3,12 +3,12 @@ Follow these steps to download, install, and set up the CSS Hider Extension on G
 
 1. Download the Extension
 To install the extension in Chrome, follow these steps:
-
 Open your Google Chrome browser.
 Navigate to the Chrome Web Store by visiting: Chrome Web Store.
 Search for CSS Hider Extension.
 Once you find the extension, click on Add to Chrome.
 A pop-up will appear asking for permission to add the extension. Click Add Extension to confirm.
+
 2. Install the Extension
 Once the extension is added, it will automatically install in your browser. You should see the extension's icon appear in the top-right corner of the Chrome toolbar.
 
