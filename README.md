@@ -13,7 +13,7 @@ Follow these steps to **download**, **install**, and **use** the **CSS Hider Ext
      ```
    - Alternatively, you can **download** the repository as a ZIP file by clicking **"Code" > "Download ZIP"**.
 
-   ![Download ZIP](https://github.com/vohoaidanh/chrome_css_hider_extention/archive/refs/heads/main.zip)
+   [Download](https://github.com/vohoaidanh/chrome_css_hider_extention/archive/refs/heads/main.zip)
 
 2. **Extract the ZIP File** to a folder on your computer.
 
