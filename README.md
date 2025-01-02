@@ -13,7 +13,7 @@ Follow these steps to **download**, **install**, and **use** the **CSS Hider Ext
      ```
    - Alternatively, you can **download** the repository as a ZIP file by clicking **"Code" > "Download ZIP"**.
 
-   ![Download ZIP](https://via.placeholder.com/600x400?text=Download+ZIP)
+   ![Download ZIP](https://github.com/vohoaidanh/chrome_css_hider_extention/archive/refs/heads/main.zip)
 
 2. **Extract the ZIP File** to a folder on your computer.
 
@@ -23,11 +23,11 @@ Follow these steps to **download**, **install**, and **use** the **CSS Hider Ext
 2. Go to the **Extensions** page by entering `chrome://extensions` in the address bar.
 3. Enable **Developer Mode** at the top right.
 
-   ![Developer Mode](https://github.com/vohoaidanh/chrome_css_hider_extention/archive/refs/heads/main.zip)
+   ![Developer Mode](https://github.com/vohoaidanh/chrome_css_hider_extention/blob/main/css-changer-extension/assets/dev_mode.png)
 
 4. Click on **Load unpacked** and select the folder where you extracted the **CSS Hider Extension**.
 
-   ![Load Unpacked](https://via.placeholder.com/600x400?text=Load+Unpacked)
+   ![Load Unpacked](https://github.com/vohoaidanh/chrome_css_hider_extention/blob/main/css-changer-extension/assets/Load_unpacked.png)
 
 5. The extension will now appear in your browser's extensions list.
 
@@ -35,11 +35,11 @@ Follow these steps to **download**, **install**, and **use** the **CSS Hider Ext
 
 1. Click on the **CSS Hider Extension** icon in the top-right corner of your Chrome browser.
 
-   ![Extension Icon](https://via.placeholder.com/600x400?text=Extension+Icon)
+   ![Extension Icon](https://github.com/vohoaidanh/chrome_css_hider_extention/blob/main/css-changer-extension/assets/ICon.png)
 
 2. Go to Options, a setting page will appear, showing the **Settings Page** where you can add the **CSS classes** to hide.
 
-   ![Settings Page](https://via.placeholder.com/600x400?text=Settings+Page)
+   ![Settings Page](https://github.com/vohoaidanh/chrome_css_hider_extention/blob/main/css-changer-extension/assets/setting.png)
 
 ## 4. Use the Extension
 
