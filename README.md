@@ -1,30 +1,74 @@
-# How to Install CSS Hider Extension on Google Chrome
-Follow these steps to download, install, and set up the CSS Hider Extension on Google Chrome:
+# How to Install the CSS Hider Extension on Google Chrome
 
-1. Download the Extension
-To install the extension in Chrome, follow these steps:
-Open your Google Chrome browser.
-Navigate to the Chrome Web Store by visiting: Chrome Web Store.
-Search for CSS Hider Extension.
-Once you find the extension, click on Add to Chrome.
-A pop-up will appear asking for permission to add the extension. Click Add Extension to confirm.
+Follow these steps to **download**, **install**, and **use** the **CSS Hider Extension** in **Google Chrome**.
 
-2. Install the Extension
-Once the extension is added, it will automatically install in your browser. You should see the extension's icon appear in the top-right corner of the Chrome toolbar.
+## 1. Download the Extension
 
-3. Access the Extension Settings Page
-Click the extension icon (it should look like a small gear or icon related to the extension).
-A pop-up window will appear showing the settings page where you can configure the extension.
-In the settings page, you will be able to input and manage the CSS classes that you want to hide.
-4. Start Using the Extension
-To hide elements, simply enter the CSS class of the element you want to hide (e.g., .popup-remind-login, .advertisement, etc.) into the settings page and click Add Class.
-The extension will automatically hide elements with that class whenever you visit a webpage.
-5. Manage the Classes
-If you wish to remove a CSS class, just click the Remove button next to the class in the settings page.
-6. Extension Active
-The extension will remain active as long as it is installed. Any changes made in the settings will be applied immediately across the web pages you visit.
+1. **Clone the Repository** or **Download the ZIP File**:
+   - Visit the GitHub repository: [CSS Hider Extension GitHub](https://github.com/vohoaidanh/chrome_css_hider_extention).
+   - To clone the repository, click on the **"Clone"** button, and copy the link to clone the repository using Git.  
+     Example command:
+     ```bash
+     git clone <repository-link>
+     ```
+   - Alternatively, you can **download** the repository as a ZIP file by clicking **"Code" > "Download ZIP"**.
 
-*** Once installed, CSS Hider Extension will start working automatically to hide unwanted HTML elements as soon as you add their corresponding CSS classes in the settings.
+   ![Download ZIP](https://via.placeholder.com/600x400?text=Download+ZIP)
 
+2. **Extract the ZIP File** to a folder on your computer.
 
+## 2. Install the Extension Locally in Chrome
 
+1. Open **Google Chrome**.
+2. Go to the **Extensions** page by entering `chrome://extensions` in the address bar.
+3. Enable **Developer Mode** at the top right.
+
+   ![Developer Mode](https://github.com/vohoaidanh/chrome_css_hider_extention/archive/refs/heads/main.zip)
+
+4. Click on **Load unpacked** and select the folder where you extracted the **CSS Hider Extension**.
+
+   ![Load Unpacked](https://via.placeholder.com/600x400?text=Load+Unpacked)
+
+5. The extension will now appear in your browser's extensions list.
+
+## 3. Access the Extension Settings Page
+
+1. Click on the **CSS Hider Extension** icon in the top-right corner of your Chrome browser.
+
+   ![Extension Icon](https://via.placeholder.com/600x400?text=Extension+Icon)
+
+2. Go to Options, a setting page will appear, showing the **Settings Page** where you can add the **CSS classes** to hide.
+
+   ![Settings Page](https://via.placeholder.com/600x400?text=Settings+Page)
+
+## 4. Use the Extension
+
+1. To hide an element on a webpage, enter the **CSS class** of the element in the input field (e.g., `popup-ad`, `banner`, etc.).
+2. Click the **"Add Class"** button to apply the class to hide the elements on the page.
+
+   ![Add Class Input](#)
+
+## 5. Remove a CSS Class
+
+1. To **remove** a class, click the **Remove** button next to the class in the **Settings Page**.
+
+   ![Remove Class](#)
+
+## 6. Extension Active
+
+- The extension will automatically hide the elements matching the classes you have added from any webpage you visit.
+
+   ![Extension Active](#)
+
+---
+
+## Conclusion
+
+Your **CSS Hider Extension** is now set up! It will actively hide elements on websites based on the **CSS classes** you’ve added in the **Settings Page**.
+
+---
+
+### Tips
+
+- You can always access the **Settings Page** by clicking on the extension icon to add or remove classes.
+- This extension is **useful** for hiding unwanted pop-ups, advertisements, or notifications on web pages.
