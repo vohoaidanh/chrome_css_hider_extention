@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "CSS Hider Extension",
+    "description": "An extension to hide elements based on CSS classes",
+    "version": "1.0",
+    "permissions": [
+      "storage"
+    ],
+    "options_page": "settings.html",  
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
+  
