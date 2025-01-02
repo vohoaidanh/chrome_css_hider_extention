@@ -1,31 +1,30 @@
-# How to Use CSS Hider Extension
-CSS Hider Extension is a browser extension that allows users to automatically hide HTML elements on web pages by adding the CSS classes of those elements. This is particularly useful when you want to hide notifications, advertisements, or any unwanted elements that appear on websites.
+# How to Install CSS Hider Extension on Google Chrome
+Follow these steps to download, install, and set up the CSS Hider Extension on Google Chrome:
 
-## Steps to Use the Extension:
-### Install the Extension
+1. Download the Extension
+To install the extension in Chrome, follow these steps:
 
-1. Download and install the extension in your browser (Google Chrome or Firefox).
-After installation, the extension will be active immediately.
-Access the Extension Settings Page
+Open your Google Chrome browser.
+Navigate to the Chrome Web Store by visiting: Chrome Web Store.
+Search for CSS Hider Extension.
+Once you find the extension, click on Add to Chrome.
+A pop-up will appear asking for permission to add the extension. Click Add Extension to confirm.
+2. Install the Extension
+Once the extension is added, it will automatically install in your browser. You should see the extension's icon appear in the top-right corner of the Chrome toolbar.
 
-2. After installation, you can access the settings page of the extension by clicking on the extension icon in your browser’s toolbar.
-For Chrome users, click the extension icon in the top-right corner of your browser. For Firefox users, do the same.
-Add a CSS Class to Hide Elements
+3. Access the Extension Settings Page
+Click the extension icon (it should look like a small gear or icon related to the extension).
+A pop-up window will appear showing the settings page where you can configure the extension.
+In the settings page, you will be able to input and manage the CSS classes that you want to hide.
+4. Start Using the Extension
+To hide elements, simply enter the CSS class of the element you want to hide (e.g., .popup-remind-login, .advertisement, etc.) into the settings page and click Add Class.
+The extension will automatically hide elements with that class whenever you visit a webpage.
+5. Manage the Classes
+If you wish to remove a CSS class, just click the Remove button next to the class in the settings page.
+6. Extension Active
+The extension will remain active as long as it is installed. Any changes made in the settings will be applied immediately across the web pages you visit.
 
-3. On the settings page, you will see an input field and an "Add Class" button.
-In the input field, enter the CSS class name of the element you want to hide (e.g., .popup-remind-login, .advertisement, .fixed-bottom-bar, etc.).
-Click the "Add Class" button to add the class to the list.
-Remove a CSS Class (if needed)
+*** Once installed, CSS Hider Extension will start working automatically to hide unwanted HTML elements as soon as you add their corresponding CSS classes in the settings.
 
-4. If you want to remove a CSS class that you previously added, simply click the "Remove" button next to the class in the list.
-Automatically Hide Elements on Page Load
 
-5. Once you have added a CSS class to the list, the extension will automatically hide elements with that CSS class every time the page is loaded.
-You can add multiple CSS classes to the list to hide different elements across various websites.
-Update Changes
-
-6. If you want to update the list of CSS classes, simply add a new class or remove an old one from the settings page.
-These changes will take effect immediately when you reload the page or open a new one.
-### Example:
-Let's say you want to hide a popup notification that appears on a website. You can find the CSS class for that popup element, for example .popup-remind-login, and add it to the list in the settings page. Then, every time you visit a page with that class, the popup will be automatically hidden.
 
