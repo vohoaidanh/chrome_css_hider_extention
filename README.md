@@ -9,7 +9,7 @@ Follow these steps to **download**, **install**, and **use** the **CSS Hider Ext
    - To clone the repository, click on the **"Clone"** button, and copy the link to clone the repository using Git.  
      Example command:
      ```bash
-     git clone <repository-link>
+        git clone https://github.com/vohoaidanh/chrome_css_hider_extention.git
      ```
    - Alternatively, you can **download** the repository as a ZIP file by clicking **"Code" > "Download ZIP"**.
 
